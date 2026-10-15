@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root{font-family:Inter,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;color:#e9e2d8;background:#111110;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-optical-sizing:auto;font-weight:400;--ink:#111110;--paper:#e9e2d8;--muted:#aaa39a;--red:#b33c2e;--gold:#bd9a6d;--mono:'SFMono-Regular',Consolas,monospace}
+*{box-sizing:border-box}
+body{margin:0;min-width:320px;background:var(--ink)}
+button,a{font:inherit}
+button{color:inherit}
+a{color:inherit;text-decoration:none}
+::selection{background:#b33c2e;color:#fff}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
