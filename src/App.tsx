@@ -1109,7 +1109,6 @@ function App() {
             </div>
             <div className="ending-bottom">
               <span>《征途 · 不灭的火种》</span>
-              <span>历史资料与图片出处将在正式发布时补充</span>
               <span>© 2026 · DIGITAL STORYTELLING</span>
             </div>
           </div>
